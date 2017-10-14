@@ -1,9 +1,9 @@
 ## Jóvenes Angeles de San José  
 
-Como tuvimos algunos problemas tratando de sincronizarnos con gmail, vamos a intentar este medio. Esta pagina la voy a mantener, estaria bien que eventualmente alguien de ustedes maneje esta pagina (con gusto les enseno.)
+Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
 
-Faltan algunas actividades en este programa, mi libreta esta de viaje pero regresa pronto :p
-Esto es lo que tenemos por ahorita.
+Faltan algunas actividades en este programa, mi libreta está de viaje pero regresa pronto :p Esto es lo que tenemos por ahorita.
+
 
 <table class="fixed">
   <th colspan = "7">October</th>
