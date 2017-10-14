@@ -1,4 +1,7 @@
 ## Jóvenes Angeles de San José  
+<em>Importante: No vamos a publicar informacion personal en este medio. Lo mas especifico sera mencionar nombres, sin apellido. Informacion como numero de telefonos, direcciones etc. no sera publicada en este sitio.</em>
+
+>"La medida del amor es amar sin medida". (San Agustín)
 
 Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
 
