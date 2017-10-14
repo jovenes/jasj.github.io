@@ -9,7 +9,7 @@ Faltan algunas actividades en este programa, mi libreta está de viaje pero regr
 
 
 <table class="fixed">
-  <th colspan = "7">October</th>
+  <th colspan = "7"><b>October</b></th>
   <tr>
     <th>Sunday</th>
     <th>Monday</th>
