@@ -26,7 +26,7 @@
     <td>10</td>
     <td>11</td>
     <td>12</td>
-    <td><b>13</b> </br>Flyers placed at church for the movie night. Thank you Magali!</td>
+    <td><b>13</b> <br>Flyers placed at church for the movie night. Thank you Magali!</td>
     <td>14</td>
   </tr>
   <tr>
