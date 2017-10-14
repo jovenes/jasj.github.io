@@ -32,9 +32,9 @@
   <tr>
     <td>15</td>
     <td>16</td>
-    <td>17</td>
+    <td>17 Entrega de despensa.</td>
     <td>18</td>
-    <td>19</td>
+    <td>19 Movie night.</td>
     <td>20</td>
     <td>21</td>
   </tr>
