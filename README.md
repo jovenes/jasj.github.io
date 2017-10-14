@@ -48,7 +48,7 @@
     <td>28</td>
   </tr>
   <tr>
-    <td><b>29</b> <br>Give food to the needy. Click here for more info.</td>
+    <td><b>29</b> <br>Give food to the needy. Click [here](https://github.com/jovenes/jovenes.github.io/blob/master/feedtheneedy.md) for more info.</td>
     <td>30</td>
     <td>31</td>
   </tr>
