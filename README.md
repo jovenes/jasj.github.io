@@ -1,5 +1,10 @@
 ## Jóvenes Angeles de San José  
 
+Como tuvimos algunos problemas tratando de sincronizarnos con gmail, vamos a intentar este medio. Esta pagina la voy a mantener, estaria bien que eventualmente alguien de ustedes maneje esta pagina (con gusto les enseno.)
+
+Faltan algunas actividades en este programa, mi libreta esta de viaje pero regresa pronto :p
+Esto es lo que tenemos por ahorita.
+
 <table class="fixed">
   <th colspan = "7">October</th>
   <tr>
@@ -48,7 +53,7 @@
     <td>28</td>
   </tr>
   <tr>
-    <td><b>29</b> <br>Give food to the needy. Click <a href= "https://github.com/jovenes/jovenes.github.io/blob/master/feedtheneedy.md"> here </a>for more info.</td>
+    <td><b>29</b> <br>Give food to the needy. Click <a href= "https://jovenes.github.io/feedtheneedy"> here </a>for more info.</td>
     <td>30</td>
     <td>31</td>
   </tr>
