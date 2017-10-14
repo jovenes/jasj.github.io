@@ -1,6 +1,6 @@
 ## Jóvenes Angeles de San José  
 
-<table>
+<table class="fixed">
   <th colspan = "7">October</th>
   <tr>
     <th>Sunday</th>
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>2</td>
+    <td><b>2</b> <br>Oracion - Jeovanni</td>
     <td>3</td>
     <td>4</td>
     <td>5</td>
@@ -21,20 +21,20 @@
     <td>7</td>
   </tr>
   <tr>
-    <td>8</td>
-    <td>9</td>
+    <td><b>8</b> <br>De compras a la Sam's. Gracias Magali y Jaylen.</td>
+    <td><b>9</b> <br>Compartimiento y dinamicas.</td>
     <td>10</td>
     <td>11</td>
     <td>12</td>
-    <td>13</td>
+    <td><b>13</b> </br>Flyers placed at church for the movie night. Thank you Magali!</td>
     <td>14</td>
   </tr>
   <tr>
     <td>15</td>
-    <td>16</td>
-    <td>17 Entrega de despensa.</td>
+    <td><b>16</b> <br><em>We will not meet, since we are meeting on Tuesday and Thrusday.</em></td>
+    <td><b>17</b> <br>Entrega de despensa (Brigida.)</td>
     <td>18</td>
-    <td>19 Movie night.</td>
+    <td><b>19</b> <br>Movie night.</td>
     <td>20</td>
     <td>21</td>
   </tr>
@@ -48,7 +48,7 @@
     <td>28</td>
   </tr>
   <tr>
-    <td>29</td>
+    <td><b>29</b> <br>Give food to the needy. Click here for more info.</td>
     <td>30</td>
     <td>31</td>
   </tr>
