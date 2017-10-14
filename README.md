@@ -1,10 +1,55 @@
 ## Jóvenes Angeles de San José  
 
-| October |
-|--------|--------|---------|-----------|----------|--------|----------|
-|Sunday | Monday | Tuesday | Wednesday | Thrusday | Friday | Saturday|
-|1|2|3|4|5|6|7|
-|8|9|10|11|12|13|14|
-|15|16|17|18|19|20|21|
-|22|23|24|25|26|27|28|
-|29|30|31|||||
+<table>
+  <th colspan = "7">October</th>
+  <tr>
+    <th>Sunday</th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thrusday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>16</td>
+    <td>17</td>
+    <td>18</td>
+    <td>19</td>
+    <td>20</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>23</td>
+    <td>24</td>
+    <td>25</td>
+    <td>26</td>
+    <td>27</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>30</td>
+    <td>31</td>
+  </tr>
+</table>
