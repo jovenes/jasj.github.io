@@ -4,6 +4,8 @@
 >"La medida del amor es amar sin medida". (San Agustín)
 <br>
 
+## [CANCELACION](https://jovenes.github.io/Cancellation)
+
 **Today (Tuesday October 17)**
 *We will take the foods that we have to our selected person. We meet at the church at the usual Monday time and part from there. Also take a look at one of the flyers that I scanned, so you guys can share it, link is <a href="https://jovenes.github.io/MovieNight">here</a>.*
 <br>
