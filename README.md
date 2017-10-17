@@ -5,7 +5,7 @@
 <br>
 
 **Today (Tuesday October 17)**
-*We will take the foods that we have to our selected person. We meet at the church at the usual Monday time and part from there. Also take a look at one of the flyers that I scanned, so you guys can share it, link is <a href="https://jovenes.github.io/MovieNight.md">here</a>.*
+*We will take the foods that we have to our selected person. We meet at the church at the usual Monday time and part from there. Also take a look at one of the flyers that I scanned, so you guys can share it, link is <a href="https://jovenes.github.io/MovieNight">here</a>.*
 <br>
 
 Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
@@ -39,7 +39,7 @@ Faltan algunas actividades en este programa, mi libreta está de viaje pero regr
     <td>10</td>
     <td>11</td>
     <td>12</td>
-    <td><b>13</b> <br><a href="https://jovenes.github.io/MovieNight.md">Flyer</a>s placed at church for the movie night. Thank you Magali!</td>
+    <td><b>13</b> <br><a href="https://jovenes.github.io/MovieNight">Flyer</a>s placed at church for the movie night. Thank you Magali!</td>
     <td>14</td>
   </tr>
   <tr>
