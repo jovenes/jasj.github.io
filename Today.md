@@ -6,6 +6,8 @@ Espero que todos puedan asistir. Si necesitan transporte, por favor mándenos me
 Tenemos que llegar temprano, el volante dice a las 5:30PM así que a más tardar los que puedan, estén allí a las 5:00PM para que acomodemos sillas y quitemos mesas.
 <em>Recuerden que vamos a estar representando a el grupo de jóvenes, no importa si esta una, dos, o  veinte personas, hay que tratarlas como Jesús las trataría. </em> :D
 
+-Jeovanni Ladrón de Guevara
+
 
 ### October 17, 2017
 <strike>
