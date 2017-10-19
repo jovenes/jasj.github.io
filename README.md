@@ -46,7 +46,7 @@ Faltan algunas actividades en este programa, mi libreta está de viaje pero regr
   <tr>
     <td>15</td>
     <td><b>16</b> <br><em>We will not meet, since we are meeting on Tuesday and Thrusday.</em></td>
-    <td><b>17</b> <br><strike>Entrega de despensa (Brigida.)</strike> </a href="https://jovenes.github.io/Cancellation">Evento cancelado</a>.</td>
+    <td><b>17</b> <br><strike>Entrega de despensa (Brigida.)</strike> <a href="https://jovenes.github.io/Cancellation">Evento cancelado</a>.</td>
     <td>18</td>
     <td><b>19</b> <br><a href="https://jovenes.github.io/MovieNight">Movie night</a>.</td>
     <td>20</td>
