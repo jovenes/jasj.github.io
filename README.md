@@ -4,7 +4,6 @@
 >"La medida del amor es amar sin medida". (San Agustín)
 <br>
 
-## <a href="https://jovenes.github.io/Cancellation">Today's event is cancelled</a>
 ## <a href="https://jovenes.github.io/Today">Today</a>
 (click/tap on Today)
 <br>
@@ -46,9 +45,9 @@ Faltan algunas actividades en este programa, mi libreta está de viaje pero regr
   <tr>
     <td>15</td>
     <td><b>16</b> <br><em>We will not meet, since we are meeting on Tuesday and Thrusday.</em></td>
-    <td><b>17</b> <br>Entrega de despensa (Brigida.)</td>
+    <td><b>17</b> <br><strike>Entrega de despensa (Brigida.)</strike> Evento cancelado.</td>
     <td>18</td>
-    <td><b>19</b> <br>Movie night.</td>
+    <td><b>19</b> <br<a href="https://jovenes.github.io/MovieNight">Movie night</a>.</td>
     <td>20</td>
     <td>21</td>
   </tr>
