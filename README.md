@@ -5,9 +5,7 @@
 <br>
 
 ## <a href="https://jovenes.github.io/Cancellation">Today's event is cancelled</a>
-
-**Today (Tuesday October 17)**
-*We will take the foods that we have to our selected person. We meet at the church at the usual Monday time and part from there. Also take a look at one of the flyers that I scanned, so you guys can share it, link is <a href="https://jovenes.github.io/MovieNight">here</a>.*
+## <a href="https://jovenes.github.io/Today><strong>Today!</strong></a> <--- Click me!
 <br>
 
 Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
