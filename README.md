@@ -5,7 +5,8 @@
 <br>
 
 ## <a href="https://jovenes.github.io/Cancellation">Today's event is cancelled</a>
-## <a href="https://jovenes.github.io/Today><strong>Today!</strong></a> <--- Click me!
+## <a href="https://jovenes.github.io/Today">Today</a>
+(click/tap on Today)
 <br>
 
 Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
