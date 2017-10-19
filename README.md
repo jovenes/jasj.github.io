@@ -4,8 +4,9 @@
 >"La medida del amor es amar sin medida". (San Agustín)
 <br>
 
-## <a href="https://jovenes.github.io/Today">Today</a>
 (click/tap on Today)
+## <a href="https://jovenes.github.io/Today">Today</a>
+
 <br>
 
 Como tuvimos algunos problemas tratando de sincronizarnos con Gmail, vamos a intentar este medio. Esta página la voy a mantener, estaría bien que eventualmente alguien de ustedes maneje esta página (con gusto les enseno.)  
@@ -47,7 +48,7 @@ Faltan algunas actividades en este programa, mi libreta está de viaje pero regr
     <td><b>16</b> <br><em>We will not meet, since we are meeting on Tuesday and Thrusday.</em></td>
     <td><b>17</b> <br><strike>Entrega de despensa (Brigida.)</strike> Evento cancelado.</td>
     <td>18</td>
-    <td><b>19</b> <br<a href="https://jovenes.github.io/MovieNight">Movie night</a>.</td>
+    <td><b>19</b> <br><a href="https://jovenes.github.io/MovieNight">Movie night</a>.</td>
     <td>20</td>
     <td>21</td>
   </tr>
