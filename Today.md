@@ -1,7 +1,7 @@
-### Today 
+## Today 
 Have a great day you all. Enjoy the weekend. Que Dios los bendiga.
 
-### (October 19, 2017)
+### October 19, 2017
 <strike>
 Hoy jueves Octubre 19, tendremos nuestra noche de cine! :D
 
