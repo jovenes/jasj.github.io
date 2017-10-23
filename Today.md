@@ -1,5 +1,6 @@
 ## Today 
-Have a great day you all. Enjoy the weekend. Que Dios los bendiga.
+### October 23, 217
+Hoy por fin llevaremos la despensa, si Dios permite. Nos reuniremos a la misma hora en la iglesia. A las 6:00 PM. Y de alli nos hiremos a llevar la despensa, no sera un tarde larga. Nos vemos :)
 
 ### October 19, 2017
 <strike>
